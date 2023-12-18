@@ -1,16 +1,22 @@
 /* The code below puts the title of the website in the center */
-.title { 
+.title{ 
     text-align: center;
     font-family: 'Trebuchet MS', sans-serif;
     font-size: 3rem;
 }
 
-body {
+body{
     color: #231942;
     text-align: left;
     background-color: #E0B1CB;
     font-family: 'Trebuchet MS', sans-serif;
     font-weight: lighter;
+}
+
+.bottons{
+  color: #D7BEDA;
+  text-align: center;
+  background-color: #231942;
 }
 
 .minds{
