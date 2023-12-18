@@ -1,19 +1,32 @@
 /* The code below puts the title of the website in the center */
 .title { 
     text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
 }
 
-/* The code below adds a white background-color and black text color for the body of the page. */
 body {
-    color: black;
-    text-align: center;
-    background-color: white;
+    color: #231942;
+    text-align: left;
+    background-color: #E0B1CB;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+}
+
+.minds{
+  width: 400px;
+  padding: 7px;
+  border: 5px solid #9F86C0;
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 
-/* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:white;
+    color: #D7BEDA;
     text-align: center;
-    background-color: black;
+    background-color: #231942;
 }
